@@ -8,7 +8,7 @@ NewTech oriented (Open Source, Blockchain, CrossPlatform, WebApp), I am able to 
 
 A developer is first and foremost a creative person... and a creative person's ideas don't necessarily arrive during office hours. 😁
 
-That's why I prefer working remotely by day or by night and caffeine. ☕
+That's why I prefer working remotely by day or by night and with caffeine. ☕
 
 ## My motto
 
