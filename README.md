@@ -1,4 +1,8 @@
-# Hello, I'm Philippe!
+# Hello 👋, I'm Philippe Matray!
+
+[![](https://img.shields.io/badge/-@phmatray-%23181717?style=flat-square&logo=github)](https://github.com/phmatray)
+[![](https://img.shields.io/badge/-Philippe%20Matray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmatray/)](https://www.linkedin.com/in/phmatray/)
+[![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=matray.tech&url=https%3A%2F%2Fmatray.tech)](https://matray.tech)
 
 Entrepreneur, blockchain specialist, software architect, coach and passionate about the latest technological developments, I am also a geek and musician!
 
