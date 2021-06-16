@@ -13,3 +13,7 @@ That's why I prefer working remotely by day or by night and with caffeine. ☕
 ## My motto
 
 > To love music is to guarantee a quarter of your happiness. 🎵
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![phmatray's github stats](https://github-readme-stats.vercel.app/api?username=phmatray&show_icons=true&theme=dracula)
