@@ -3,7 +3,16 @@
 [![](https://img.shields.io/badge/-Philippe%20Matray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmatray/)](https://www.linkedin.com/in/phmatray/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=matray.tech&url=https%3A%2F%2Fmatray.tech)](https://matray.tech)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=phmatray&theme=dracula"/>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=phmatray&theme=dracula"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phmatray&layout=compact&show_icons=true&theme=dracula"/>      
+    </td>
+  </tr>
+</table>
 
 I'm Philippe Matray, a Technical Solutions Architect and Coach with a deep passion for innovative technologies and architectures. I guide teams in developing effective solutions and relish in the challenge of turning complex problems into simple, scalable solutions. When I'm not immersed in the tech world, you can find me playing my favorite musical pieces.
 
