@@ -4,6 +4,8 @@
 [![](https://img.shields.io/badge/-Philippe%20Matray-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmatray/)](https://www.linkedin.com/in/phmatray/)
 [![](https://img.shields.io/website?color=0ab9e6&style=flat-square&up_message=matray.tech&url=https%3A%2F%2Fmatray.tech)](https://matray.tech)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=phmatray"/>
+
 Entrepreneur, blockchain specialist, software architect, coach and passionate about the latest technological developments, I am also a geek and musician!
 
 NewTech oriented (Open Source, Blockchain, CrossPlatform, WebApp), I am able to solve many scenarios while respecting the application of good software development practices.
