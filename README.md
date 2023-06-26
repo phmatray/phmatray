@@ -10,6 +10,17 @@ Entrepreneur, blockchain specialist, software architect, coach and passionate ab
 
 NewTech oriented (Open Source, Blockchain, CrossPlatform, WebApp), I am able to solve many scenarios while respecting the application of good software development practices.
 
+## 🧰 2023 Technology Stack
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+<br/>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+
 ## 🌱 How I Work
 
 A developer is first and foremost a creative person... and a creative person's ideas don't necessarily arrive during office hours. 😁 That's why I prefer working remotely, be it day or night, always fueled by caffeine. ☕
