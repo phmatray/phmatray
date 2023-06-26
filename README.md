@@ -10,13 +10,15 @@ Entrepreneur, blockchain specialist, software architect, coach and passionate ab
 
 NewTech oriented (Open Source, Blockchain, CrossPlatform, WebApp), I am able to solve many scenarios while respecting the application of good software development practices.
 
-## How I work
+## 🌱 How I Work
 
-A developer is first and foremost a creative person... and a creative person's ideas don't necessarily arrive during office hours. 😁
+A developer is first and foremost a creative person... and a creative person's ideas don't necessarily arrive during office hours. 😁 That's why I prefer working remotely, be it day or night, always fueled by caffeine. ☕
 
-That's why I prefer working remotely by day or by night and with caffeine. ☕
+## 📫 How to reach me
 
-## My motto
+You can find me on [LinkedIn](https://be.linkedin.com/in/phmatray/en), or send me an [Email](mailto:phmatray@gmail.com). Feel free to reach out!
+
+## 🎵 My motto
 
 > To love music is to guarantee a quarter of your happiness. 🎵
 
