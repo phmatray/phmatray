@@ -39,7 +39,7 @@ A developer is first and foremost a creative person... and a creative person's i
 > "A day without learning is a day lost."
 
 ## 📝 MBTI Personality
-I'm an INTP (Logician) - my approach to solutions is deeply analytical and I thrive on challenging the status quo.
+I'm an [INTP (Logician)](https://www.16personalities.com/intp-personality) - my approach to solutions is deeply analytical and I thrive on challenging the status quo.
 
 ## 📫 How to reach me
 You can find me on [LinkedIn](https://be.linkedin.com/in/phmatray/en), or send me an [Email](mailto:phmatray@gmail.com). Feel free to reach out!
