@@ -14,6 +14,8 @@
   </tr>
 </table>
 
+> AI doesn't change the game, it just changes the way we play.
+
 I'm Philippe Matray, a Technical Solutions Architect and Coach with a deep passion for innovative technologies and architectures. I guide teams in developing effective solutions and relish in the challenge of turning complex problems into simple, scalable solutions. When I'm not immersed in the tech world, you can find me playing my favorite musical pieces.
 
 ## 🧰 2023 Technology Stack
