@@ -18,7 +18,7 @@
 
 I'm Philippe Matray, a Technical Solutions Architect and Coach with a deep passion for innovative technologies and architectures. I guide teams in developing effective solutions and relish in the challenge of turning complex problems into simple, scalable solutions. When I'm not immersed in the tech world, you can find me playing my favorite musical pieces.
 
-## 🧰 2023 Technology Stack
+## 🧰 2024 Technology Stack
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
@@ -27,7 +27,6 @@ I'm Philippe Matray, a Technical Solutions Architect and Coach with a deep passi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 
 ## 🎯 My Focus
 I am particularly excited about emerging technologies such as Prompt Engineering, DevOps, open source, blockchain, cross-platform and progressive web applications. I utilize my skills in solution architecture and coaching to guide development teams to build high quality, effective solutions.
