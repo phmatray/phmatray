@@ -1,3 +1,5 @@
+![phmatray banner](.github/banner.png)
+
 # Philippe Matray
 
 **AI Agent Orchestrator** · **.NET Architect** · **Prompt Engineer**
