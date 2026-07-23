@@ -2,6 +2,21 @@
 
 # Philippe Matray
 
+<!-- portfolio-toc:start -->
+
+## Table of Contents
+
+- [The Stack (2026)](#the-stack-2026)
+- [Philosophy](#philosophy)
+- [What I Build](#what-i-build)
+- [How I Work](#how-i-work)
+- [Beyond Code](#beyond-code)
+- [Contributing](#contributing)
+- [License](#license)
+
+<!-- portfolio-toc:end -->
+
+
 **AI Agent Orchestrator** · **.NET Architect** · **Prompt Engineer**
 
 [![](https://img.shields.io/badge/-@phmatray-%23181717?style=flat-square&logo=github)](https://github.com/phmatray)
