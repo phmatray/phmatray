@@ -51,6 +51,7 @@ The future belongs to developers who can **think in systems** and **communicate 
 - **Financial SaaS** — Production systems using multi-agent orchestration
 - **Open-Source Libraries** — High-quality .NET components ([TaLibStandard](https://github.com/phmatray/TaLibStandard), [FormCraft](https://github.com/phmatray/FormCraft))
 - **Developer Tools** — Utilities that make .NET development more elegant
+- **Agent Tooling** — [AI Migration Kit](https://github.com/phmatray/ai-migration-kit) (Claude Code plugin that upgrades legacy .NET apps) and [AI Kit](https://github.com/Atypical-Consulting/omarchy-aikit) (its desktop launcher for Omarchy: pick a repo, pick a skill, watch the bar)
 
 ## How I Work
 
